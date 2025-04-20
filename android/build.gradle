@@ -78,7 +78,7 @@ android {
         implementation 'org.tensorflow:tensorflow-lite:0.1.100'
         implementation 'org.tensorflow:tensorflow-lite-select-tf-ops:0.1.100'
         implementation "org.tensorflow:tensorflow-lite-support:0.4.4"
-        implementation "org.tensorflow:tensorflow-lite-metadata:0.1.0-rc2"
+        implementation "org.tensorflow:tensorflow-lite-metadata:0.1.0"
     
     }
 }
